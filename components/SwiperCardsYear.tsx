@@ -151,13 +151,10 @@ const Content = styled.div<{ selected: boolean }>`
 `;
 
 const YearText = styled.div`
-  color: white;
+  color: rgb(var(--text));
+  font-family: var(--font);
+  transition: color 0.3s ease;
 `;
 
-const SelectedYearText = styled.p`
-  text-align: center;
-  font-size: 1.5rem;
-  margin-top: 1rem;
-  font-weight: bold;
-  color: #0099ff;
-`;
+
+
