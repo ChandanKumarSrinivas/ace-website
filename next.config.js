@@ -17,6 +17,10 @@ module.exports = withBundleAnalyzer({
         protocol: 'https',
         hostname: 'iili.io',
       },
+      {
+        protocol: 'https',
+        hostname: 'res.cloudinary.com',
+      },
     ],
     deviceSizes: [320, 640, 1080, 1200],
     imageSizes: [64, 128],
