@@ -33,6 +33,12 @@ const FEATURES = [
       'This sub-cluster is dedicated to understanding and implementing security measures to protect information systems. Members will learn about various cybersecurity practices, ethical hacking, and how to safeguard against cyber threats.',
   },
   {
+    imageUrl:'/Clusters/Iot.png',
+    title:'IOT & Embedded Systems',
+    description:
+        'Members of this sub-cluster will explore the integration of hardware and software to build smart, connected systems. They will work on real-time data collection, sensor-based automation, and networked devices, contributing to ACE events through innovative IoT prototypes and tech-driven solutions.'
+  },
+  {
     imageUrl: '/Clusters/CP.png',
     title: 'Competitive Programming',
     description:
@@ -58,7 +64,7 @@ const FEATURES = [
   },
   {
     imageUrl: '/Clusters/Opcon.png',
-    title: 'OpCon (Operations and Control)',
+    title: 'OpCon&PR (Operations, Control and Promotions)',
     description:
       'Members of this sub-cluster will ensure that all events and activities run smoothly. They will be responsible for the logistical aspects of events, ensuring that everything is well-organized and executed efficiently.',
   },
