@@ -26,6 +26,7 @@ export const GlobalStyle = createGlobalStyle`
   --modalBackground: 251,251,253;
   --errorColor: 207,34,46;
   --logoColor: #243A5A;
+  --iconColor: 0;
 }
 
 
@@ -45,6 +46,7 @@ export const GlobalStyle = createGlobalStyle`
   --modalBackground: 26,32,44;
   --errorColor: 207,34,46;
   --logoColor: #fff;
+  --iconColor: 1;
 }
 
 :root {
